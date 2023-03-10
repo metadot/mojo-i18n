@@ -3530,7 +3530,7 @@
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper-toolbar/add-message-bulk-action-modal/add-message-bulk-action-modal.component.html</context>
           <context context-type="linenumber">8,10</context>
         </context-group>
-        <target state="final">ahorra</target>
+        <target state="final">guardar</target>
       </trans-unit>
       <trans-unit id="unassigned" datatype="html" approved="yes">
         <source>unassigned</source>
