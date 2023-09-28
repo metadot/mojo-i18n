@@ -20527,7 +20527,7 @@
           <context context-type="sourcefile">src/app/user-portal/_shared/components/ticket-form-selection/ticket-form-selection.component.html</context>
           <context context-type="linenumber">6</context>
         </context-group>
-        <target state="translated">Que pouvons-nous vous aider?</target>
+        <target state="translated">Que pouvons-nous faire pour vous aider?</target>
       </trans-unit>
       <trans-unit id="pleaseChoose..." datatype="html">
         <source>please choose...</source>
