@@ -19206,21 +19206,33 @@
         </context-group>
         <target state="final">fusión de tickets</target>
       </trans-unit>
-      <trans-unit id="defaultPrimaryMergeMessage" datatype="html" approved="yes">
-        <source>Ticket #<x id="PH" equiv-text="this.getMergedTicketIds()" /> was closed and merged into this ticket</source>
+      <trans-unit id="defaultPrimaryMergeMessageSingleTicket" datatype="html" approved="yes">
+        <source>Ticket mojo#<x id="PH" equiv-text="this.getMergedTicketIds()[0]"/> was closed and merged into this ticket</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/merge-ticket-dialog/merge-ticket-dialog.component.ts</context>
-          <context context-type="linenumber">125</context>
+          <context context-type="linenumber">155</context>
         </context-group>
-        <target state="final">Ticket #<x id="PH" equiv-text="this.getMergedTicketIds()" /> fue cerrado y fusionado en este ticket</target>
+        <target state="final">Ticket mojo#<x id="PH" equiv-text="this.getMergedTicketIds()[0]"/> fue cerrado y fusionado en este ticket</target>
+      </trans-unit>
+      <trans-unit id="defaultPrimaryMergeMessageSeveralTickets" datatype="html">
+        <source>Ticket <x id="PH" equiv-text="this.getMergedTicketIds()
+        .map((id) =&gt; &apos;mojo#&apos; + id)
+        .join(&apos;,&apos;)"/> were closed and merged into this ticket</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/merge-ticket-dialog/merge-ticket-dialog.component.ts</context>
+          <context context-type="linenumber">156,158</context>
+        </context-group>
+        <target state="final">Tickets <x id="PH" equiv-text="this.getMergedTicketIds()
+        .map((id) =&gt; &apos;mojo#&apos; + id)
+        .join(&apos;,&apos;)"/> fueron cerrados y fusionados en este ticket</target>
       </trans-unit>
       <trans-unit id="defaultSecondaryMergeMessage" datatype="html" approved="yes">
-        <source>This ticket was closed and merged into ticket #<x id="PH" equiv-text="ticket.id" /></source>
+        <source>This ticket was closed and merged into ticket mojo#<x id="PH" equiv-text="ticket.id"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/merge-ticket-dialog/merge-ticket-dialog.component.ts</context>
-          <context context-type="linenumber">126</context>
+          <context context-type="linenumber">160</context>
         </context-group>
-        <target state="final">Este ticket fue cerrado y fusionado en el # de ticket<x id="PH" equiv-text="ticket.id" /></target>
+        <target state="final">Este ticket fue cerrado y fusionado en el ticket mojo#<x id="PH" equiv-text="ticket.id"/></target>
       </trans-unit>
       <trans-unit id="theseFilesAreAllFiles" datatype="html" approved="yes">
         <source>these files are all files</source>
