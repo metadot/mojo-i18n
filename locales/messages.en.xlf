@@ -81,7 +81,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/carousel/carousel.ts</context>
-          <context context-type="linenumber">119,120</context>
+          <context context-type="linenumber">119</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/carousel/carousel.ts</context>
@@ -89,7 +89,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/carousel/carousel.ts</context>
-          <context context-type="linenumber">119,120</context>
+          <context context-type="linenumber">119</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/carousel/carousel.ts</context>
@@ -101,7 +101,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/carousel/carousel.ts</context>
-          <context context-type="linenumber">119,120</context>
+          <context context-type="linenumber">119</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
@@ -112,11 +112,11 @@
         <source>Next</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/carousel/carousel.ts</context>
-          <context context-type="linenumber">141,142</context>
+          <context context-type="linenumber">140,141</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/carousel/carousel.ts</context>
-          <context context-type="linenumber">144</context>
+          <context context-type="linenumber">140,141</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/carousel/carousel.ts</context>
@@ -124,7 +124,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/carousel/carousel.ts</context>
-          <context context-type="linenumber">141,144</context>
+          <context context-type="linenumber">140,141</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/carousel/carousel.ts</context>
@@ -136,7 +136,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/carousel/carousel.ts</context>
-          <context context-type="linenumber">141,144</context>
+          <context context-type="linenumber">140,141</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/carousel/carousel.ts</context>
@@ -285,7 +285,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/datepicker/datepicker-navigation.ts</context>
-          <context context-type="linenumber">61,64</context>
+          <context context-type="linenumber">60,62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/datepicker/datepicker-navigation.ts</context>
@@ -293,7 +293,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/datepicker/datepicker-navigation.ts</context>
-          <context context-type="linenumber">61,64</context>
+          <context context-type="linenumber">60,62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/datepicker/datepicker-navigation.ts</context>
@@ -309,7 +309,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/datepicker/datepicker-navigation.ts</context>
-          <context context-type="linenumber">61,64</context>
+          <context context-type="linenumber">60,62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/datepicker/datepicker-navigation.ts</context>
@@ -317,7 +317,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/datepicker/datepicker-navigation.ts</context>
-          <context context-type="linenumber">61,64</context>
+          <context context-type="linenumber">60,62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/datepicker/datepicker-navigation.ts</context>
@@ -333,7 +333,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/datepicker/datepicker-navigation.ts</context>
-          <context context-type="linenumber">61,64</context>
+          <context context-type="linenumber">60,62</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/datepicker/datepicker-navigation.ts</context>
@@ -454,7 +454,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">252,254</context>
+          <context context-type="linenumber">252</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/pagination/pagination.ts</context>
@@ -485,11 +485,11 @@
         <source>»</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">267,268</context>
+          <context context-type="linenumber">267</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">269,270</context>
+          <context context-type="linenumber">267</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/pagination/pagination.ts</context>
@@ -497,7 +497,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">267,268</context>
+          <context context-type="linenumber">267</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/pagination/pagination.ts</context>
@@ -509,7 +509,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">267,268</context>
+          <context context-type="linenumber">267</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
@@ -520,11 +520,11 @@
         <source>»»</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">292,293</context>
+          <context context-type="linenumber">290,292</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">296</context>
+          <context context-type="linenumber">290,292</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/pagination/pagination.ts</context>
@@ -532,11 +532,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">292,294</context>
+          <context context-type="linenumber">290,292</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">292</context>
+          <context context-type="linenumber">290,292</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/pagination/pagination.ts</context>
@@ -544,7 +544,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">292,294</context>
+          <context context-type="linenumber">290,292</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
@@ -555,11 +555,11 @@
         <source>First</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">309,310</context>
+          <context context-type="linenumber">308,309</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">312,313</context>
+          <context context-type="linenumber">308,309</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/pagination/pagination.ts</context>
@@ -567,11 +567,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">310</context>
+          <context context-type="linenumber">308,309</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">309</context>
+          <context context-type="linenumber">308,309</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/pagination/pagination.ts</context>
@@ -579,7 +579,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">310</context>
+          <context context-type="linenumber">308,309</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
@@ -590,11 +590,11 @@
         <source>Previous</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">326,328</context>
+          <context context-type="linenumber">324,326</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">328,330</context>
+          <context context-type="linenumber">324,326</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/pagination/pagination.ts</context>
@@ -602,7 +602,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">326,328</context>
+          <context context-type="linenumber">324,326</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/pagination/pagination.ts</context>
@@ -614,7 +614,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">326,328</context>
+          <context context-type="linenumber">324,326</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
@@ -625,11 +625,11 @@
         <source>Next</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">340</context>
+          <context context-type="linenumber">339</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">341,342</context>
+          <context context-type="linenumber">339</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/pagination/pagination.ts</context>
@@ -637,7 +637,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">340</context>
+          <context context-type="linenumber">339</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/pagination/pagination.ts</context>
@@ -649,7 +649,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">340</context>
+          <context context-type="linenumber">339</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
@@ -660,11 +660,11 @@
         <source>Last</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">352</context>
+          <context context-type="linenumber">351</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">354,355</context>
+          <context context-type="linenumber">351</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/pagination/pagination.ts</context>
@@ -672,7 +672,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">352</context>
+          <context context-type="linenumber">351</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/pagination/pagination.ts</context>
@@ -684,7 +684,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/pagination/pagination.ts</context>
-          <context context-type="linenumber">352</context>
+          <context context-type="linenumber">351</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/pagination/pagination.ts</context>
@@ -730,11 +730,11 @@
         <source>HH</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">138,141</context>
+          <context context-type="linenumber">138,140</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">141</context>
+          <context context-type="linenumber">138,140</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/timepicker/timepicker.ts</context>
@@ -742,7 +742,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">138,141</context>
+          <context context-type="linenumber">138,140</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/timepicker/timepicker.ts</context>
@@ -754,7 +754,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">138,141</context>
+          <context context-type="linenumber">138,140</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
@@ -765,11 +765,11 @@
         <source>Hours</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">158,161</context>
+          <context context-type="linenumber">158</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">161</context>
+          <context context-type="linenumber">158</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/timepicker/timepicker.ts</context>
@@ -777,11 +777,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">158,161</context>
+          <context context-type="linenumber">158</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">158,160</context>
+          <context context-type="linenumber">158</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/timepicker/timepicker.ts</context>
@@ -789,7 +789,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">158,161</context>
+          <context context-type="linenumber">158</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
@@ -800,11 +800,11 @@
         <source>MM</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">181</context>
+          <context context-type="linenumber">178,181</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">181</context>
+          <context context-type="linenumber">178,181</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/timepicker/timepicker.ts</context>
@@ -812,11 +812,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">181</context>
+          <context context-type="linenumber">178,181</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">180,181</context>
+          <context context-type="linenumber">178,181</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/timepicker/timepicker.ts</context>
@@ -824,7 +824,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">181</context>
+          <context context-type="linenumber">178,181</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
@@ -835,11 +835,11 @@
         <source>Minutes</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">194,195</context>
+          <context context-type="linenumber">190,191</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">198</context>
+          <context context-type="linenumber">190,191</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/timepicker/timepicker.ts</context>
@@ -847,11 +847,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">194,195</context>
+          <context context-type="linenumber">190,191</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">191,194</context>
+          <context context-type="linenumber">190,191</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/timepicker/timepicker.ts</context>
@@ -859,7 +859,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">194,195</context>
+          <context context-type="linenumber">190,191</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
@@ -870,11 +870,11 @@
         <source>Increment hours</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">208,210</context>
+          <context context-type="linenumber">208</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">212,214</context>
+          <context context-type="linenumber">208</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/timepicker/timepicker.ts</context>
@@ -882,11 +882,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">210</context>
+          <context context-type="linenumber">208</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">208,210</context>
+          <context context-type="linenumber">208</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/timepicker/timepicker.ts</context>
@@ -894,7 +894,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">210</context>
+          <context context-type="linenumber">208</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
@@ -905,11 +905,11 @@
         <source>Decrement hours</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">230,231</context>
+          <context context-type="linenumber">229,230</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">233,235</context>
+          <context context-type="linenumber">229,230</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/timepicker/timepicker.ts</context>
@@ -917,11 +917,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">230,231</context>
+          <context context-type="linenumber">229,230</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">230</context>
+          <context context-type="linenumber">229,230</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/timepicker/timepicker.ts</context>
@@ -929,7 +929,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">230,231</context>
+          <context context-type="linenumber">229,230</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
@@ -940,11 +940,11 @@
         <source>Increment minutes</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">254,256</context>
+          <context context-type="linenumber">250,254</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">258,259</context>
+          <context context-type="linenumber">250,254</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/timepicker/timepicker.ts</context>
@@ -952,11 +952,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">254,256</context>
+          <context context-type="linenumber">250,254</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">253,254</context>
+          <context context-type="linenumber">250,254</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/timepicker/timepicker.ts</context>
@@ -964,7 +964,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">254,256</context>
+          <context context-type="linenumber">250,254</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
@@ -975,11 +975,11 @@
         <source>Decrement minutes</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">276,277</context>
+          <context context-type="linenumber">272,274</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">278,279</context>
+          <context context-type="linenumber">272,274</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/timepicker/timepicker.ts</context>
@@ -987,11 +987,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">276,277</context>
+          <context context-type="linenumber">272,274</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">274</context>
+          <context context-type="linenumber">272,274</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/timepicker/timepicker.ts</context>
@@ -999,7 +999,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">276,277</context>
+          <context context-type="linenumber">272,274</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
@@ -1010,11 +1010,11 @@
         <source>SS</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">291,292</context>
+          <context context-type="linenumber">289</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">295</context>
+          <context context-type="linenumber">289</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/timepicker/timepicker.ts</context>
@@ -1022,7 +1022,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">291,295</context>
+          <context context-type="linenumber">289</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/timepicker/timepicker.ts</context>
@@ -1034,7 +1034,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/timepicker/timepicker.ts</context>
-          <context context-type="linenumber">291,295</context>
+          <context context-type="linenumber">289</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/timepicker/timepicker.ts</context>
@@ -1216,11 +1216,11 @@
         <source>Close</source>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-attachment/node_modules/src/toast/toast.ts</context>
-          <context context-type="linenumber">93,96</context>
+          <context context-type="linenumber">93,95</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-confirmation-dialog/node_modules/src/toast/toast.ts</context>
-          <context context-type="linenumber">94,96</context>
+          <context context-type="linenumber">93,95</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-copy/node_modules/src/toast/toast.ts</context>
@@ -1228,11 +1228,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-dialog-input/node_modules/src/toast/toast.ts</context>
-          <context context-type="linenumber">93,96</context>
+          <context context-type="linenumber">93,95</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-filter/node_modules/src/toast/toast.ts</context>
-          <context context-type="linenumber">93,95</context>
+          <context context-type="linenumber">92,94</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-sort/node_modules/src/toast/toast.ts</context>
@@ -1240,7 +1240,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@bamzooka/ui-kit-user-search/node_modules/src/toast/toast.ts</context>
-          <context context-type="linenumber">93,96</context>
+          <context context-type="linenumber">93,95</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/src/toast/toast.ts</context>
@@ -1543,7 +1543,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">24,26</context>
+          <context context-type="linenumber">20,22</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-home/overview/overview.component.ts</context>
@@ -1551,7 +1551,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">482,483</context>
+          <context context-type="linenumber">517,518</context>
         </context-group>
       </trans-unit>
       <trans-unit id="tags" datatype="html">
@@ -1670,7 +1670,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">29,31</context>
+          <context context-type="linenumber">25,27</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-home/overview/overview.component.ts</context>
@@ -1792,7 +1792,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">117</context>
+          <context context-type="linenumber">121</context>
         </context-group>
       </trans-unit>
       <trans-unit id="solutions" datatype="html">
@@ -1839,7 +1839,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">64,66</context>
+          <context context-type="linenumber">58,60</context>
         </context-group>
       </trans-unit>
       <trans-unit id="slaPolicies" datatype="html">
@@ -1850,7 +1850,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">57,59</context>
+          <context context-type="linenumber">53,54</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-business-rules/sla-policies/base/base.component.ts</context>
@@ -2073,7 +2073,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">334</context>
+          <context context-type="linenumber">342</context>
         </context-group>
       </trans-unit>
       <trans-unit id="log" datatype="html">
@@ -2115,7 +2115,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">116</context>
+          <context context-type="linenumber">120</context>
         </context-group>
       </trans-unit>
       <trans-unit id="contactGroups" datatype="html">
@@ -2318,7 +2318,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">391</context>
+          <context context-type="linenumber">399</context>
         </context-group>
       </trans-unit>
       <trans-unit id="watchList" datatype="html">
@@ -2329,7 +2329,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">396</context>
+          <context context-type="linenumber">404</context>
         </context-group>
       </trans-unit>
       <trans-unit id="openTickets" datatype="html">
@@ -2356,7 +2356,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">417</context>
+          <context context-type="linenumber">425</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ticketNavigation.openTickets.upcoming" datatype="html">
@@ -2425,7 +2425,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">53</context>
+          <context context-type="linenumber">56</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/plans/plan-box/plan-box.component.html</context>
@@ -3008,7 +3008,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/asset-management/_shared/modules/asset-management-shared/asset-management-form/asset-management-form.component.ts</context>
-          <context context-type="linenumber">571</context>
+          <context context-type="linenumber">569</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/asset-management/asset-management-departments/asset-management-departments-base/asset-management-departments-base.component.ts</context>
@@ -3047,7 +3047,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/asset-management/_shared/modules/asset-management-shared/asset-management-form/asset-management-form.component.ts</context>
-          <context context-type="linenumber">554</context>
+          <context context-type="linenumber">553</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/asset-management/asset-management-list/asset-details/base/base.component.ts</context>
@@ -3668,7 +3668,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/create-sub-ticket-button/create-sub-ticket-button.component.html</context>
-          <context context-type="linenumber">25,27</context>
+          <context context-type="linenumber">36,37</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/user/delete-user/delete-user.component.html</context>
@@ -3704,7 +3704,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">143,144</context>
+          <context context-type="linenumber">177,178</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-help-desk/email-templates/email-layout/email-layout.component.html</context>
@@ -3732,7 +3732,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/knowledge-base/knowledge-base-articles/knowledge-base-article-details/article-description-editor/article-description-editor.component.html</context>
-          <context context-type="linenumber">23,24</context>
+          <context context-type="linenumber">22,23</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/reports/dashboards/dashboard-base/dashboard-widget/dashboard-widget.component.html</context>
@@ -3745,6 +3745,10 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/_shared/modules/third-party-application/knowledge-base-search/knowledge-base-search.component.html</context>
           <context context-type="linenumber">144,146</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
+          <context context-type="linenumber">198</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/user-details/group-access-setter/group-access-setter.component.html</context>
@@ -3980,7 +3984,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">433</context>
+          <context context-type="linenumber">441</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/base/saved-searches-list/saved-searches-list.component.html</context>
@@ -4269,7 +4273,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/knowledge-base/knowledge-base-articles/knowledge-base-article-details/article-description-editor/article-description-editor.component.html</context>
-          <context context-type="linenumber">15,16</context>
+          <context context-type="linenumber">14,15</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/knowledge-base/knowledge-base-topics/knowledge-base-topic-editor/knowledge-base-topic-editor.component.html</context>
@@ -4293,7 +4297,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">460,461</context>
+          <context context-type="linenumber">491,492</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
+          <context context-type="linenumber">200</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper-toolbar/add-message-bulk-action-modal/add-message-bulk-action-modal.component.html</context>
@@ -4572,11 +4580,15 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">321,322</context>
+          <context context-type="linenumber">344,345</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">423,424</context>
+          <context context-type="linenumber">445,446</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
+          <context context-type="linenumber">199</context>
         </context-group>
       </trans-unit>
       <trans-unit id="login" datatype="html">
@@ -4690,11 +4702,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">91,92</context>
+          <context context-type="linenumber">106,107</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">250,251</context>
+          <context context-type="linenumber">273,274</context>
         </context-group>
       </trans-unit>
       <trans-unit id="file" datatype="html">
@@ -4820,21 +4832,21 @@
         <source>Tap items to select them one by one. Multi-selection may depend on device support.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_core/models/general-utilities.ts</context>
-          <context context-type="linenumber">95</context>
+          <context context-type="linenumber">102</context>
         </context-group>
       </trans-unit>
       <trans-unit id="multiSelectHelpMac" datatype="html">
         <source>Hold down the Command (⌘) key to select multiple options.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_core/models/general-utilities.ts</context>
-          <context context-type="linenumber">97</context>
+          <context context-type="linenumber">104</context>
         </context-group>
       </trans-unit>
       <trans-unit id="multiSelectHelpPC" datatype="html">
         <source>Hold down the Control (Ctrl) key to select multiple options.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_core/models/general-utilities.ts</context>
-          <context context-type="linenumber">99</context>
+          <context context-type="linenumber">106</context>
         </context-group>
       </trans-unit>
       <trans-unit id="fileName" datatype="html">
@@ -5466,7 +5478,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.html</context>
-          <context context-type="linenumber">101,103</context>
+          <context context-type="linenumber">100,102</context>
         </context-group>
       </trans-unit>
       <trans-unit id="titleOfReport" datatype="html">
@@ -5761,7 +5773,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">323</context>
+          <context context-type="linenumber">325</context>
         </context-group>
       </trans-unit>
       <trans-unit id="notes" datatype="html">
@@ -5780,7 +5792,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">312</context>
+          <context context-type="linenumber">314</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/asset-management/_shared/modules/asset-management-shared/asset-management-form/asset-management-form.component.ts</context>
@@ -6869,7 +6881,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">72</context>
+          <context context-type="linenumber">101</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/signup/register/register.component.html</context>
@@ -7499,7 +7511,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/base/header/header.component.html</context>
-          <context context-type="linenumber">84,85</context>
+          <context context-type="linenumber">86,87</context>
         </context-group>
       </trans-unit>
       <trans-unit id="logout" datatype="html">
@@ -7510,7 +7522,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/base/header/header.component.html</context>
-          <context context-type="linenumber">117,118</context>
+          <context context-type="linenumber">119,120</context>
         </context-group>
       </trans-unit>
       <trans-unit id="giveUsFeedback" datatype="html">
@@ -7614,11 +7626,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/ticket-title/ticket-title.component.html</context>
-          <context context-type="linenumber">6,7</context>
+          <context context-type="linenumber">16,17</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">423</context>
+          <context context-type="linenumber">431</context>
         </context-group>
       </trans-unit>
       <trans-unit id="keyboardShortcuts" datatype="html">
@@ -7629,14 +7641,75 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.ts</context>
-          <context context-type="linenumber">14</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="openSidebar" datatype="html">
+        <source>Open sidebar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
+          <context context-type="linenumber">346,348</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
+          <context context-type="linenumber">583,585</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="toggleSidebar" datatype="html">
+        <source>Toggle sidebar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
+          <context context-type="linenumber">356,358</context>
         </context-group>
       </trans-unit>
       <trans-unit id="account.backToClassicUI.link" datatype="html">
         <source> back to Mojo classic UI </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
-          <context context-type="linenumber">432,434</context>
+          <context context-type="linenumber">436,438</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="appsMenu" datatype="html">
+        <source>Apps menu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
+          <context context-type="linenumber">462,464</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="helpMenu" datatype="html">
+        <source>Help menu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
+          <context context-type="linenumber">481,483</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="userMenu" datatype="html">
+        <source>User menu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
+          <context context-type="linenumber">540,542</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
+          <context context-type="linenumber">669,670</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-portal/base/header/header.component.html</context>
+          <context context-type="linenumber">70,72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="closeSearch" datatype="html">
+        <source>Close search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
+          <context context-type="linenumber">599,601</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="applySearch" datatype="html">
+        <source>Apply search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/header/header/header.component.html</context>
+          <context context-type="linenumber">704,706</context>
         </context-group>
       </trans-unit>
       <trans-unit id="viewInKnowledgeBase" datatype="html">
@@ -7664,32 +7737,18 @@
           <context context-type="linenumber">21,22</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="keyboardShortcutModalHelp" datatype="html">
-        <source> Keyboard shortcuts help increase productivity by allowing users to control Mojo with lighting fast key strokes. </source>
+      <trans-unit id="ControlMojoWithLightingFastKeyStrokesDot" datatype="html">
+        <source> Control Mojo with lighting fast key strokes. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">3,6</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="inTheProfileYouCanEnableOrDisableKeyboardShortcuts" datatype="html">
-        <source>you can enable or disable keyboard shortcuts</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">9,12</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="inTheProfile" datatype="html">
-        <source>in the profile</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">15,18</context>
+          <context context-type="linenumber">3,5</context>
         </context-group>
       </trans-unit>
       <trans-unit id="goTo" datatype="html">
         <source>go to</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">18,20</context>
+          <context context-type="linenumber">5,6</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/error/error/error.component.html</context>
@@ -7700,19 +7759,23 @@
         <source>then</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">22,23</context>
+          <context context-type="linenumber">9,10</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">28,29</context>
+          <context context-type="linenumber">16,17</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">29,30</context>
+          <context context-type="linenumber">18,19</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">35,36</context>
+          <context context-type="linenumber">27,28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
+          <context context-type="linenumber">34,35</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
@@ -7720,136 +7783,124 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">47,48</context>
+          <context context-type="linenumber">48,49</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">53,54</context>
+          <context context-type="linenumber">55,56</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">59,60</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">65,66</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">71,72</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">77,78</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">83,84</context>
+          <context context-type="linenumber">62,63</context>
         </context-group>
       </trans-unit>
       <trans-unit id="goToNewTicketDefaultForm" datatype="html">
         <source>go to new ticket default form</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">24,27</context>
+          <context context-type="linenumber">12,14</context>
         </context-group>
       </trans-unit>
       <trans-unit id="openDropdownNewTicketToChooseForm" datatype="html">
         <source>open dropdown new ticket to choose form</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">31,35</context>
+          <context context-type="linenumber">22,25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="goToMyAssignments" datatype="html">
         <source>go to my assignments</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">37,39</context>
+          <context context-type="linenumber">30,32</context>
         </context-group>
       </trans-unit>
       <trans-unit id="goToUnassignedTicketsList" datatype="html">
         <source>go to unassigned tickets list</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">43,46</context>
+          <context context-type="linenumber">37,39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="goToWatchTicketsList" datatype="html">
         <source>go to watch tickets list</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">49,52</context>
+          <context context-type="linenumber">44,46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="goToOpenTicketsList" datatype="html">
         <source>go to open tickets list</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">55,58</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="goToDashboard" datatype="html">
-        <source>go to dashboard</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">61,63</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="goToMojoSettings" datatype="html">
-        <source>go to mojo settings</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">67,69</context>
+          <context context-type="linenumber">51,53</context>
         </context-group>
       </trans-unit>
       <trans-unit id="goToAdvancedSearch" datatype="html">
         <source>go to advanced search</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">73,76</context>
+          <context context-type="linenumber">58,60</context>
         </context-group>
       </trans-unit>
       <trans-unit id="goToUserProfile" datatype="html">
         <source>go to user profile</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">79,81</context>
+          <context context-type="linenumber">65,67</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="goToManageUsers" datatype="html">
-        <source>go to manage users</source>
+      <trans-unit id="ticketList" datatype="html">
+        <source>ticket list</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">85,87</context>
+          <context context-type="linenumber">69,71</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="navigationList" datatype="html">
-        <source>navigation list</source>
+      <trans-unit id="deleteSelection" datatype="html">
+        <source>delete selection</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">90,92</context>
+          <context context-type="linenumber">75,77</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="star/unstarATicketInTicketDetailsView" datatype="html">
-        <source>star/unstar a ticket in ticket details view</source>
+      <trans-unit id="ticketView" datatype="html">
+        <source>ticket view</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">95,99</context>
+          <context context-type="linenumber">86,88</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="deleteSelectedElementInTicketList" datatype="html">
-        <source>delete selected element in ticket list</source>
+      <trans-unit id="toggleAddToWatchList" datatype="html">
+        <source>toggle add to watch list</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">100,105</context>
+          <context context-type="linenumber">92,94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="reply" datatype="html">
+        <source>reply</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
+          <context context-type="linenumber">97,98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
+          <context context-type="linenumber">79,80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="createStaffNote" datatype="html">
+        <source>create staff note</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
+          <context context-type="linenumber">102,104</context>
         </context-group>
       </trans-unit>
       <trans-unit id="miscellaneous" datatype="html">
         <source>miscellaneous</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">112,114</context>
+          <context context-type="linenumber">106,108</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-ticket/admin-portal-ticket-settings/admin-portal-ticket-settings-base/admin-portal-ticket-settings-base.component.ts</context>
@@ -7864,14 +7915,14 @@
         <source>report a bug</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">116,117</context>
+          <context context-type="linenumber">112,113</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="toggleThisPopup" datatype="html">
-        <source>toggle this popup</source>
+      <trans-unit id="opencloseThisDialog" datatype="html">
+        <source>open/close this dialog</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/keyboard-shortcut/keyboard-shortcut-modal/keyboard-shortcut-modal.component.html</context>
-          <context context-type="linenumber">120,122</context>
+          <context context-type="linenumber">117,120</context>
         </context-group>
       </trans-unit>
       <trans-unit id="all" datatype="html">
@@ -7976,6 +8027,40 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/mojo-communication/mojo-account-messages/mojo-account-messages.component.ts</context>
           <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="download" datatype="html">
+        <source>Download</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/mojo-wysiwyg-editor/mojo-renderer/mojo-renderer-image-preview/mojo-renderer-image-preview.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-ticket/admin-portal-ticket-attachments/admin-portal-ticket-attachments-list/admin-portal-ticket-attachments-list.component.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="close" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/mojo-wysiwyg-editor/mojo-renderer/mojo-renderer-image-preview/mojo-renderer-image-preview.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/screen/mojo-modal/mojo-modal.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/screen/mojo-preview-modal/mojo-preview-modal.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-ticket/searches/searches-form/searches-form.component.ts</context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-portal/user-portal-new-ticket/ticket-created-successfully/ticket-created-successfully.component.html</context>
+          <context context-type="linenumber">39,41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="fileExceedsMaxSize" datatype="html">
@@ -8093,7 +8178,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.html</context>
-          <context context-type="linenumber">85</context>
+          <context context-type="linenumber">87</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/review/review.component.html</context>
@@ -8101,7 +8186,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">101</context>
+          <context context-type="linenumber">133</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/merge-ticket-dialog/merge-ticket-dialog.component.html</context>
@@ -8216,30 +8301,11 @@
           <context context-type="linenumber">123,124</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="close" datatype="html">
-        <source>close</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/screen/mojo-modal/mojo-modal.component.ts</context>
-          <context context-type="linenumber">15</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/screen/mojo-preview-modal/mojo-preview-modal.component.ts</context>
-          <context context-type="linenumber">20</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-ticket/searches/searches-form/searches-form.component.ts</context>
-          <context context-type="linenumber">163</context>
-        </context-group>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/user-portal/user-portal-new-ticket/ticket-created-successfully/ticket-created-successfully.component.html</context>
-          <context context-type="linenumber">39,41</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="learnMore" datatype="html">
         <source>learn more</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/screen/mojo-screen/mojo-screen.component.html</context>
-          <context context-type="linenumber">151,153</context>
+          <context context-type="linenumber">150,152</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/installable/card/card.component.html</context>
@@ -8312,7 +8378,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">397</context>
+          <context context-type="linenumber">399</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/error/error/error.component.html</context>
@@ -8645,15 +8711,15 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/dev/base/base.component.ts</context>
-          <context context-type="linenumber">204</context>
+          <context context-type="linenumber">209</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/dev/base/base.component.ts</context>
-          <context context-type="linenumber">256</context>
+          <context context-type="linenumber">261</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">344</context>
+          <context context-type="linenumber">352</context>
         </context-group>
       </trans-unit>
       <trans-unit id="warning" datatype="html">
@@ -8738,7 +8804,7 @@
         <source>Removed message</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket-creation/ticket-messages-with-a-chronological-sorting/ticket-messages-with-a-chronological-sorting.ts</context>
-          <context context-type="linenumber">660</context>
+          <context context-type="linenumber">672</context>
         </context-group>
         <note priority="1" from="description">Title when removing a message</note>
         <note priority="1" from="meaning">alert title</note>
@@ -8747,7 +8813,7 @@
         <source>You are about to remove this message. Users won&apos;t be able to see this message anymore.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket-creation/ticket-messages-with-a-chronological-sorting/ticket-messages-with-a-chronological-sorting.ts</context>
-          <context context-type="linenumber">661</context>
+          <context context-type="linenumber">673</context>
         </context-group>
         <note priority="1" from="description">Message when removing a message</note>
         <note priority="1" from="meaning">alert message</note>
@@ -8777,11 +8843,18 @@
           <context context-type="linenumber">7,11</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="pleaseFillInRequiredFields" datatype="html">
+        <source> please fill in the required fields </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_shared/modules/ticket/create-sub-ticket-button/create-sub-ticket-button.component.html</context>
+          <context context-type="linenumber">7,9</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="createAnotherOne" datatype="html">
         <source> create another one </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/create-sub-ticket-button/create-sub-ticket-button.component.html</context>
-          <context context-type="linenumber">15,17</context>
+          <context context-type="linenumber">26,28</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/_shared/ticket/ticket-creation-form/ticket-creation-form.component.html</context>
@@ -8792,11 +8865,11 @@
         <source> create ticket </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/create-sub-ticket-button/create-sub-ticket-button.component.html</context>
-          <context context-type="linenumber">36,38</context>
+          <context context-type="linenumber">47,48</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/create-sub-ticket-button/create-sub-ticket-button.component.html</context>
-          <context context-type="linenumber">71,73</context>
+          <context context-type="linenumber">84,86</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/_shared/ticket/ticket-creation-form/ticket-creation-form.component.html</context>
@@ -8811,25 +8884,25 @@
         <source>pick a form</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/create-sub-ticket-button/create-sub-ticket-button.component.html</context>
-          <context context-type="linenumber">53,55</context>
+          <context context-type="linenumber">66,68</context>
         </context-group>
       </trans-unit>
       <trans-unit id="CreateSubTicket" datatype="html">
         <source> Create sub-ticket </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/create-sub-ticket-button/create-sub-ticket-button.component.html</context>
-          <context context-type="linenumber">152,154</context>
+          <context context-type="linenumber">165,167</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/create-sub-ticket-button/create-sub-ticket-button.component.html</context>
-          <context context-type="linenumber">161,163</context>
+          <context context-type="linenumber">174,176</context>
         </context-group>
       </trans-unit>
       <trans-unit id="AddExistingTicket" datatype="html">
         <source> Add existing ticket </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/create-sub-ticket-button/create-sub-ticket-button.component.html</context>
-          <context context-type="linenumber">168,170</context>
+          <context context-type="linenumber">181,183</context>
         </context-group>
       </trans-unit>
       <trans-unit id="searchAndSelectTheTicketToLinkAsASubTicket" datatype="html">
@@ -9126,14 +9199,14 @@
         <source>by <x id="INTERPOLATION" equiv-text="{{ User.getUserDisplayName(violator) }}"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/sla-dates/sla-inspector.component.ts</context>
-          <context context-type="linenumber">34,36</context>
+          <context context-type="linenumber">33,35</context>
         </context-group>
       </trans-unit>
       <trans-unit id="slaInspector" datatype="html">
         <source>SLA inspector</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/ticket/sla-dates/sla-inspector.component.ts</context>
-          <context context-type="linenumber">76</context>
+          <context context-type="linenumber">75</context>
         </context-group>
       </trans-unit>
       <trans-unit id="sla.leds.timerStopped.message" datatype="html">
@@ -9353,13 +9426,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/user-info/user-settings/user-settings.component.html</context>
           <context context-type="linenumber">13,14</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="enableKeyboardShortcuts" datatype="html">
-        <source>enable keyboard shortcuts</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/_shared/modules/user-info/user-settings/user-settings.component.ts</context>
-          <context context-type="linenumber">75</context>
         </context-group>
       </trans-unit>
       <trans-unit id="apiKey" datatype="html">
@@ -9985,14 +10051,14 @@
         <source> Days, hours and minutes </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/utils/time-duration-input/time-duration-input.component.html</context>
-          <context context-type="linenumber">39,43</context>
+          <context context-type="linenumber">42,46</context>
         </context-group>
       </trans-unit>
       <trans-unit id="durationInputNotSet" datatype="html">
         <source>not set</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/utils/time-duration-input/time-duration-input.component.html</context>
-          <context context-type="linenumber">53,55</context>
+          <context context-type="linenumber">56,58</context>
         </context-group>
       </trans-unit>
       <trans-unit id="videoHelp" datatype="html">
@@ -10138,6 +10204,13 @@
           <context context-type="linenumber">56,59</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="scrollForMore" datatype="html">
+        <source>scroll for more</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_ui/kit/scroll-indicator/scroll-indicator.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="createGroup" datatype="html">
         <source> create group </source>
         <context-group purpose="location">
@@ -10186,7 +10259,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">292</context>
+          <context context-type="linenumber">294</context>
         </context-group>
       </trans-unit>
       <trans-unit id="groupNameCannotBeBlank" datatype="html">
@@ -10197,7 +10270,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">304</context>
+          <context context-type="linenumber">306</context>
         </context-group>
       </trans-unit>
       <trans-unit id="moreInformation" datatype="html">
@@ -11122,7 +11195,7 @@
         <source>active forms</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">5,7</context>
+          <context context-type="linenumber">5,6</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ticketQueues" datatype="html">
@@ -11136,49 +11209,49 @@
         <source>active triggers</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">17,19</context>
+          <context context-type="linenumber">15,17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="maxFileSize" datatype="html">
         <source>max file size</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">37,39</context>
+          <context context-type="linenumber">33,34</context>
         </context-group>
       </trans-unit>
       <trans-unit id="storagePerAgent" datatype="html">
         <source>storage per agent</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">45,47</context>
+          <context context-type="linenumber">41,43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="logRetentionPeriod" datatype="html">
         <source>log retention period</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">52,55</context>
+          <context context-type="linenumber">48,50</context>
         </context-group>
       </trans-unit>
       <trans-unit id="dailyApiCalls" datatype="html">
         <source>daily API calls</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">69,71</context>
+          <context context-type="linenumber">63,65</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ticketSchedulers" datatype="html">
         <source>ticket schedulers</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">76,78</context>
+          <context context-type="linenumber">68,70</context>
         </context-group>
       </trans-unit>
       <trans-unit id="dashboards" datatype="html">
         <source>dashboards</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/_shared/modules/quotas/quotas-list.component.html</context>
-          <context context-type="linenumber">81,83</context>
+          <context context-type="linenumber">73,74</context>
         </context-group>
       </trans-unit>
       <trans-unit id="tapSettingsWithAcronym" datatype="html">
@@ -11933,7 +12006,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">335</context>
+          <context context-type="linenumber">337</context>
         </context-group>
       </trans-unit>
       <trans-unit id="zip" datatype="html">
@@ -11944,7 +12017,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">359</context>
+          <context context-type="linenumber">361</context>
         </context-group>
       </trans-unit>
       <trans-unit id="state" datatype="html">
@@ -11955,7 +12028,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">347</context>
+          <context context-type="linenumber">349</context>
         </context-group>
       </trans-unit>
       <trans-unit id="country" datatype="html">
@@ -11966,7 +12039,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">371</context>
+          <context context-type="linenumber">373</context>
         </context-group>
       </trans-unit>
       <trans-unit id="cardType" datatype="html">
@@ -12216,49 +12289,49 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/_shared/modules/third-party-application/mojo-ai-copilot/mojo-ai-copilot.component.ts</context>
-          <context context-type="linenumber">276,277</context>
+          <context context-type="linenumber">274,275</context>
         </context-group>
       </trans-unit>
       <trans-unit id="thePlanDowngradeWillTakeEffectOnTheNextSubscription" datatype="html">
         <source> The plan downgrade will take effect on the next subscription. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.html</context>
-          <context context-type="linenumber">68,71</context>
+          <context context-type="linenumber">70,73</context>
         </context-group>
       </trans-unit>
       <trans-unit id="thePlanUpgradeWillTakeEffectImmediately" datatype="html">
         <source> The plan upgrade will take effect immediately. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.html</context>
-          <context context-type="linenumber">72,75</context>
+          <context context-type="linenumber">74,77</context>
         </context-group>
       </trans-unit>
       <trans-unit id="downgradePlan" datatype="html">
         <source>Downgrade plan</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">35</context>
+          <context context-type="linenumber">36</context>
         </context-group>
       </trans-unit>
       <trans-unit id="upgradePlan" datatype="html">
         <source>Upgrade plan</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">36</context>
+          <context context-type="linenumber">37</context>
         </context-group>
       </trans-unit>
       <trans-unit id="changePlanHelp" datatype="html">
         <source>Compare your current plan with the selected one</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">37</context>
+          <context context-type="linenumber">38</context>
         </context-group>
       </trans-unit>
       <trans-unit id="quotas" datatype="html">
         <source>quotas</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">38</context>
+          <context context-type="linenumber">39</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/plans/plans.component.html</context>
@@ -12273,42 +12346,42 @@
         <source>New subscription</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">39</context>
+          <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit>
       <trans-unit id="planChanged" datatype="html">
         <source>Plan has been changed successfully</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">40</context>
+          <context context-type="linenumber">41</context>
         </context-group>
       </trans-unit>
       <trans-unit id="planChangeRequested" datatype="html">
         <source>Plan change has been requested successfully</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">41</context>
+          <context context-type="linenumber">42</context>
         </context-group>
       </trans-unit>
       <trans-unit id="availableWithUpgrade" datatype="html">
         <source>Available with upgrade</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">42</context>
+          <context context-type="linenumber">43</context>
         </context-group>
       </trans-unit>
       <trans-unit id="notAvailableWithDowngrade" datatype="html">
         <source>Not available with downgrade</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">43</context>
+          <context context-type="linenumber">44</context>
         </context-group>
       </trans-unit>
       <trans-unit id="downgrade" datatype="html">
         <source>downgrade</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/change/change-plan.component.ts</context>
-          <context context-type="linenumber">53</context>
+          <context context-type="linenumber">56</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-account/admin-portal-account-billing/manage-plan/plans/plan-box/plan-box.component.html</context>
@@ -13401,26 +13474,25 @@
           <context context-type="linenumber">18,21</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="addOnAvailableUntil | { enddate: cancelingAddOn?.renew_date, addonname:
-          cancelingAddOn?.name}" datatype="html">
+      <trans-unit id="addOnAvailableUntilConfirmation" datatype="html">
         <source><x id="INTERPOLATION" equiv-text="{{ cancellingAddOn?.name }}"/> addon subscription will not auto-renew. If you change your mind you can always subscribe on or before <x id="INTERPOLATION_1" equiv-text="{{ cancellingAddOn?.renew_date }}"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-add-ons/add-ons-details/cancellation-modal/cancellation-modal.component.html</context>
-          <context context-type="linenumber">35,37</context>
+          <context context-type="linenumber">33,35</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="allAddOnDataWillBeDeleted | { enddate: cancelingAddOn?.renew_date}" datatype="html">
+      <trans-unit id="allAddOnDataWillBeDeleted" datatype="html">
         <source>all data of this add-on will be deleted after <x id="INTERPOLATION" equiv-text="{{ cancellingAddOn?.renew_date }}"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-add-ons/add-ons-details/cancellation-modal/cancellation-modal.component.html</context>
-          <context context-type="linenumber">41,43</context>
+          <context context-type="linenumber">39,41</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="addOnAvailableUntil | { enddate: cancelingAddOn?.renew_date }" datatype="html">
+      <trans-unit id="addOnAvailableUntilRecap" datatype="html">
         <source>once this subscription is cancelled, this add-on will be available until the end of the subscription period (<x id="INTERPOLATION" equiv-text="{{ cancellingAddOn?.renew_date }}"/>) and all data will be deleted after this date</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-add-ons/add-ons-details/cancellation-modal/cancellation-modal.component.html</context>
-          <context context-type="linenumber">48,50</context>
+          <context context-type="linenumber">46,48</context>
         </context-group>
       </trans-unit>
       <trans-unit id="addOnCancellation" datatype="html">
@@ -13437,14 +13509,13 @@
           <context context-type="linenumber">17</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="aboutToSubscribeToAddOn | {addOnName: subscribingAddOn?.name, cost:
-      subscribingAddOn?.cost_per_mo_in_dollar}" datatype="html">
+      <trans-unit id="aboutToSubscribeToAddOn" datatype="html">
         <source> You are about to subscribe to the <x id="INTERPOLATION" equiv-text="{{ subscribingAddOn?.name }}"/> add-on for a cost of $<x id="INTERPOLATION_1" equiv-text="{{
       subscribingAddOn?.cost_per_mo_in_dollar
     }}"/> per month. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-add-ons/add-ons-details/subscription-modal/subscription-modal.component.html</context>
-          <context context-type="linenumber">22,27</context>
+          <context context-type="linenumber">19,24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="add-onSubscription" datatype="html">
@@ -14151,7 +14222,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">234</context>
+          <context context-type="linenumber">257</context>
         </context-group>
       </trans-unit>
       <trans-unit id="openingHourse.endTime.placeholder" datatype="html">
@@ -14404,14 +14475,22 @@
         <source>All queues</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-business-rules/sla-policies/_shared/list/list/list-item.component.ts</context>
-          <context context-type="linenumber">136</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-business-rules/sla-policies/_shared/list/list/list-item.component.ts</context>
+          <context context-type="linenumber">152</context>
         </context-group>
       </trans-unit>
       <trans-unit id="filter.all.types" datatype="html">
         <source>All types</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-business-rules/sla-policies/_shared/list/list/list-item.component.ts</context>
-          <context context-type="linenumber">158</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-business-rules/sla-policies/_shared/list/list/list-item.component.ts</context>
+          <context context-type="linenumber">174</context>
         </context-group>
       </trans-unit>
       <trans-unit id="admin.portal.sla-policies.subtitle" datatype="html">
@@ -14840,7 +14919,7 @@
         <source>IMAP username</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">93</context>
+          <context context-type="linenumber">96</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-readonly/mail-server-config-readonly.component.ts</context>
@@ -14851,39 +14930,39 @@
         <source>Enter the email address used for IMAP access. You can usually find this in your email provider&apos;s settings or contact your email administrator.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">95</context>
+          <context context-type="linenumber">98</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">206</context>
+          <context context-type="linenumber">212</context>
         </context-group>
       </trans-unit>
       <trans-unit id="useSameAsImapUsername" datatype="html">
         <source>IMAP Email address is the same as the username</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">104</context>
+          <context context-type="linenumber">107</context>
         </context-group>
       </trans-unit>
       <trans-unit id="imapEmailAddressLabel" datatype="html">
         <source>IMAP email address (optional)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">112</context>
+          <context context-type="linenumber">115</context>
         </context-group>
       </trans-unit>
       <trans-unit id="imapEmailAddressHelp" datatype="html">
         <source>Only required if the IMAP email address is different from the username. Typically, this is the full email address of the mailbox.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">116</context>
+          <context context-type="linenumber">119</context>
         </context-group>
       </trans-unit>
       <trans-unit id="imapPassword" datatype="html">
         <source>IMAP password</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">125</context>
+          <context context-type="linenumber">128</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-readonly/mail-server-config-readonly.component.ts</context>
@@ -14894,18 +14973,18 @@
         <source>Enter the password for the email address. This information is encrypted.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">130</context>
+          <context context-type="linenumber">133</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">217</context>
+          <context context-type="linenumber">223</context>
         </context-group>
       </trans-unit>
       <trans-unit id="imapServerAddress" datatype="html">
         <source>IMAP server address</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">136</context>
+          <context context-type="linenumber">139</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-readonly/mail-server-config-readonly.component.ts</context>
@@ -14916,36 +14995,36 @@
         <source>Enter the address of the IMAP server, such as imap.newco.com. You can typically find this information in your email provider&apos;s documentation or by contacting your email administrator.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">141</context>
+          <context context-type="linenumber">144</context>
         </context-group>
       </trans-unit>
       <trans-unit id="port" datatype="html">
         <source>Port</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">146</context>
+          <context context-type="linenumber">149</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">183</context>
+          <context context-type="linenumber">189</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mailboxSettingsPortHelp" datatype="html">
         <source>Enter the port number for the IMAP server. The default is 993.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">148</context>
+          <context context-type="linenumber">151</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">185</context>
+          <context context-type="linenumber">191</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ssl" datatype="html">
         <source>SSL</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">153</context>
+          <context context-type="linenumber">156</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-readonly/mail-server-config-readonly.component.ts</context>
@@ -14956,14 +15035,14 @@
         <source>Select whether to use SSL for the IMAP connection. This is typically required for secure connections.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">155</context>
+          <context context-type="linenumber">158</context>
         </context-group>
       </trans-unit>
       <trans-unit id="smtpServerAddress" datatype="html">
         <source>SMTP server address</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">165</context>
+          <context context-type="linenumber">171</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-readonly/mail-server-config-readonly.component.ts</context>
@@ -14974,28 +15053,28 @@
         <source>Enter the address of the SMTP server, such as &quot;smtp.example.com&quot;. This information is typically found in your email provider&apos;s documentation or by contacting your email administrator.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">170</context>
+          <context context-type="linenumber">176</context>
         </context-group>
       </trans-unit>
       <trans-unit id="smtpDomainLabel" datatype="html">
         <source>Domain (optional)</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">175</context>
+          <context context-type="linenumber">181</context>
         </context-group>
       </trans-unit>
       <trans-unit id="smtpDomainHelp" datatype="html">
         <source>The domain of your email address. Only if requested by your SMTP provider.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">178</context>
+          <context context-type="linenumber">184</context>
         </context-group>
       </trans-unit>
       <trans-unit id="tls" datatype="html">
         <source>TLS</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">190</context>
+          <context context-type="linenumber">196</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-readonly/mail-server-config-readonly.component.ts</context>
@@ -15007,21 +15086,21 @@
         TLS is an updated version of SSL.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">192,193</context>
+          <context context-type="linenumber">198,199</context>
         </context-group>
       </trans-unit>
       <trans-unit id="useSameCredentialsAsImap" datatype="html">
         <source>Use the same username and password as IMAP</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">198</context>
+          <context context-type="linenumber">204</context>
         </context-group>
       </trans-unit>
       <trans-unit id="smtpUsername" datatype="html">
         <source>SMTP username</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">204</context>
+          <context context-type="linenumber">210</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-readonly/mail-server-config-readonly.component.ts</context>
@@ -15032,7 +15111,7 @@
         <source>SMTP password</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-form/mail-server-config-form.component.ts</context>
-          <context context-type="linenumber">213</context>
+          <context context-type="linenumber">219</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-readonly/mail-server-config-readonly.component.ts</context>
@@ -15096,70 +15175,70 @@
         <source> set up your own mail server </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">39,41</context>
+          <context context-type="linenumber">68,70</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mailServerConfigStep1Text" datatype="html">
-        <source><x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/> Welcome! You’re about to set up your custom email configuration to integrate your own IMAP and SMTP servers with our helpdesk system. <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/><x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/> By using your own email servers, you ensure that all incoming and outgoing emails are routed directly through your infrastructure, providing greater control over your email communication. <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/><x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>This process will only take a few minutes. Here’s what to expect:<x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/><x id="START_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;ul&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/> Enter Your Email Server Details: Provide the IMAP and SMTP settings that you use for your organization. <x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/> Verify Your Settings: We’ll test the provided configuration to make sure everything works seamlessly. <x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/> Ready to Go!: Once verified, you can start using your helpdesk with your own email servers. <x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="CLOSE_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;/ul&gt;"/> When you’re ready, click Next to begin. </source>
+        <source><x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/> Welcome! You&apos;re about to set up your custom email configuration to integrate your own IMAP and SMTP servers with our helpdesk system. <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/><x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/> By using your own email servers, you ensure that all incoming and outgoing emails are routed directly through your infrastructure, providing greater control over your email communication. <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/><x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/>This process will only take a few minutes. Here&apos;s what to expect:<x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/><x id="START_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;ul&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/> Enter Your Email Server Details: Provide the IMAP and SMTP settings that you use for your organization. <x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/> Verify Your Settings: We&apos;ll test the provided configuration to make sure everything works seamlessly. <x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="START_LIST_ITEM" ctype="x-li" equiv-text="&lt;li&gt;"/> Ready to Go!: Once verified, you can start using your helpdesk with your own email servers. <x id="CLOSE_LIST_ITEM" ctype="x-li" equiv-text="&lt;/li&gt;"/><x id="CLOSE_UNORDERED_LIST" ctype="x-ul" equiv-text="&lt;/ul&gt;"/> When you&apos;re ready, click Next to begin. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">43,68</context>
+          <context context-type="linenumber">72,97</context>
         </context-group>
       </trans-unit>
       <trans-unit id="verifySettings" datatype="html">
         <source>verify settings</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">112,113</context>
+          <context context-type="linenumber">146,147</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mailServerConfigStepperOk" datatype="html">
         <source><x id="START_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;faThumbsUp&quot; /&gt;"/><x id="CLOSE_TAG_FA_ICON" ctype="x-fa_icon" equiv-text="&lt;fa-icon [icon]=&quot;faThumbsUp&quot; /&gt;"/> Server configuration: OK </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">126,127</context>
+          <context context-type="linenumber">160,161</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mailServerConfigStep3Text" datatype="html">
         <source><x id="START_PARAGRAPH" ctype="x-p" equiv-text="&lt;p&gt;"/> If you choose to proceed, your helpdesk will use your own email server. This means that all communication will be routed directly through your infrastructure, giving you greater control over your email flow. <x id="CLOSE_PARAGRAPH" ctype="x-p" equiv-text="&lt;/p&gt;"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">130,134</context>
+          <context context-type="linenumber">164,168</context>
         </context-group>
       </trans-unit>
       <trans-unit id="startUsingYourOwnMailServer" datatype="html">
         <source>start using your own mail server </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">154,155</context>
+          <context context-type="linenumber">188,189</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mailboxSettingsStep1" datatype="html">
         <source>Start</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">189</context>
+          <context context-type="linenumber">229</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mailboxSettingsStep2" datatype="html">
         <source>Server settings</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">190</context>
+          <context context-type="linenumber">230</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mailboxSettingsStep3" datatype="html">
         <source>Launch</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">191</context>
+          <context context-type="linenumber">231</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mailboxSettingsModalTitle" datatype="html">
         <source>Mail server configuration</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-channels/email-base/mail-server-configuration/mail-server-config-stepper/mail-server-config-stepper.component.ts</context>
-          <context context-type="linenumber">192</context>
+          <context context-type="linenumber">232</context>
         </context-group>
       </trans-unit>
       <trans-unit id="MojoHelpdeskMailService" datatype="html">
@@ -16789,13 +16868,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-ticket/admin-portal-ticket-attachments/admin-portal-ticket-attachments-base/admin-portal-ticket-attachments-base.component.ts</context>
           <context context-type="linenumber">31</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="download" datatype="html">
-        <source>download</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-ticket/admin-portal-ticket-attachments/admin-portal-ticket-attachments-list/admin-portal-ticket-attachments-list.component.html</context>
-          <context context-type="linenumber">30,31</context>
         </context-group>
       </trans-unit>
       <trans-unit id="noAttachmentsFound" datatype="html">
@@ -18556,49 +18628,49 @@
         <source>confirm group deletion</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">234</context>
+          <context context-type="linenumber">236</context>
         </context-group>
       </trans-unit>
       <trans-unit id="youAreAboutToDeleteGroup" datatype="html">
         <source>you are about to delete group</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">236</context>
+          <context context-type="linenumber">238</context>
         </context-group>
       </trans-unit>
       <trans-unit id="transfer tickets and users from this group" datatype="html">
         <source>transfer tickets and users from this group</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">244</context>
+          <context context-type="linenumber">246</context>
         </context-group>
       </trans-unit>
       <trans-unit id="toThisGroup" datatype="html">
         <source>to this group</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">251</context>
+          <context context-type="linenumber">253</context>
         </context-group>
       </trans-unit>
       <trans-unit id="confirmAndDelete" datatype="html">
         <source>confirm and delete</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">263</context>
+          <context context-type="linenumber">265</context>
         </context-group>
       </trans-unit>
       <trans-unit id="websiteUrl" datatype="html">
         <source>website url</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">383</context>
+          <context context-type="linenumber">385</context>
         </context-group>
       </trans-unit>
       <trans-unit id="shouldStartWith" datatype="html">
         <source>should start with</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-users-and-permissions/admin-portal-groups/group-manager-modal/group-manager-modal.component.ts</context>
-          <context context-type="linenumber">393</context>
+          <context context-type="linenumber">395</context>
         </context-group>
       </trans-unit>
       <trans-unit id="groupAccessRightsForQueues" datatype="html">
@@ -20242,7 +20314,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/base/header/header.component.html</context>
-          <context context-type="linenumber">102,103</context>
+          <context context-type="linenumber">104,105</context>
         </context-group>
       </trans-unit>
       <trans-unit id="publicKnowledgeBase" datatype="html">
@@ -21840,49 +21912,49 @@
         <source> <x id="INTERPOLATION" equiv-text="{{ sentimentAnalysis.confidence | confidencePercentage }}"/>% confidence </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/_shared/modules/third-party-application/mojo-ai-copilot/mojo-ai-copilot.component.ts</context>
-          <context context-type="linenumber">225,226</context>
+          <context context-type="linenumber">223,224</context>
         </context-group>
       </trans-unit>
       <trans-unit id="confidenceHelper" datatype="html">
         <source> Indicates reliability of the sentiment analysis. Higher values (80%+) show clear customer sentiment, medium values suggest mixed signals, and lower values indicate limited or conflicting feedback. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/_shared/modules/third-party-application/mojo-ai-copilot/mojo-ai-copilot.component.ts</context>
-          <context context-type="linenumber">229,231</context>
+          <context context-type="linenumber">227,229</context>
         </context-group>
       </trans-unit>
       <trans-unit id="emotionalIndicators" datatype="html">
         <source>emotional indicators</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/_shared/modules/third-party-application/mojo-ai-copilot/mojo-ai-copilot.component.ts</context>
-          <context context-type="linenumber">242,244</context>
+          <context context-type="linenumber">240,242</context>
         </context-group>
       </trans-unit>
       <trans-unit id="conversationAnalysis" datatype="html">
         <source>Conversation tone</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/_shared/modules/third-party-application/mojo-ai-copilot/mojo-ai-copilot.component.ts</context>
-          <context context-type="linenumber">252,254</context>
+          <context context-type="linenumber">250,252</context>
         </context-group>
       </trans-unit>
       <trans-unit id="keyPhrases" datatype="html">
         <source>key phrases</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/_shared/modules/third-party-application/mojo-ai-copilot/mojo-ai-copilot.component.ts</context>
-          <context context-type="linenumber">263,265</context>
+          <context context-type="linenumber">261,263</context>
         </context-group>
       </trans-unit>
       <trans-unit id="lastAnalyzed" datatype="html">
-        <source> last analyzed: <x id="INTERPOLATION" equiv-text="{{ sentimentAnalysis.updated_at | date: &apos;medium&apos; }}"/> </source>
+        <source>last analyzed:</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/_shared/modules/third-party-application/mojo-ai-copilot/mojo-ai-copilot.component.ts</context>
-          <context context-type="linenumber">278,280</context>
+          <context context-type="linenumber">276,277</context>
         </context-group>
       </trans-unit>
       <trans-unit id="sentimentAnalysis" datatype="html">
         <source>sentiment analysis</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/_shared/modules/third-party-application/mojo-ai-copilot/mojo-ai-copilot.component.ts</context>
-          <context context-type="linenumber">288</context>
+          <context context-type="linenumber">287</context>
         </context-group>
       </trans-unit>
       <trans-unit id="thirdPartyApplicationsDescription" datatype="html">
@@ -22072,41 +22144,34 @@
           <context context-type="linenumber">56,57</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="reply" datatype="html">
-        <source>reply</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">76,77</context>
-        </context-group>
-      </trans-unit>
       <trans-unit id="close&amp;lockConversation" datatype="html">
         <source>close &amp; lock conversation</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">105,110</context>
+          <context context-type="linenumber">121,126</context>
         </context-group>
         <note priority="1" from="description"> Action to close a ticket</note>
         <note priority="1" from="meaning">Action button in ticket view </note>
       </trans-unit>
       <trans-unit id="thisTicketWasMergedAndThereforeCannotBeReopened" datatype="html">
-        <source>this ticket was merged and therefore cannot be reopened </source>
+        <source>this ticket was merged and therefore cannot be reopened. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">113,116</context>
+          <context context-type="linenumber">129,132</context>
         </context-group>
       </trans-unit>
       <trans-unit id="mergedInto" datatype="html">
         <source>merged into</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">119,120</context>
+          <context context-type="linenumber">135,136</context>
         </context-group>
       </trans-unit>
       <trans-unit id="reopen" datatype="html">
         <source> re-open </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">134,141</context>
+          <context context-type="linenumber">150,157</context>
         </context-group>
         <note priority="1" from="description"> Action to re open a ticket</note>
         <note priority="1" from="meaning">Action button in ticket view </note>
@@ -22115,7 +22180,7 @@
         <source> Cc </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">208</context>
+          <context context-type="linenumber">224</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/action-bar/action-bar.component.html</context>
@@ -22126,7 +22191,7 @@
         <source>Cc</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">265</context>
+          <context context-type="linenumber">288</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/action-bar/action-bar.component.html</context>
@@ -22138,60 +22203,74 @@
         <source> update &amp; request info </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">339,340</context>
+          <context context-type="linenumber">364,365</context>
         </context-group>
       </trans-unit>
       <trans-unit id="close&amp;LockConversation" datatype="html">
         <source>close &amp; lock conversation </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">352,353</context>
+          <context context-type="linenumber">378,379</context>
         </context-group>
       </trans-unit>
       <trans-unit id="updateAndSetStatusTo" datatype="html">
         <source>update and set status to</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">355,356</context>
+          <context context-type="linenumber">381,382</context>
         </context-group>
       </trans-unit>
       <trans-unit id="update&amp;Solve" datatype="html">
         <source> update &amp; solve </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">384,385</context>
+          <context context-type="linenumber">404,405</context>
         </context-group>
       </trans-unit>
       <trans-unit id="saveAsCannedResponse" datatype="html">
         <source>save as canned response</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">502,503</context>
+          <context context-type="linenumber">537,538</context>
         </context-group>
       </trans-unit>
       <trans-unit id="createDraftKBFromMessage" datatype="html">
         <source>create draft knowledge base from this message</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.html</context>
-          <context context-type="linenumber">524,526</context>
+          <context context-type="linenumber">559,561</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="openReplyBox" datatype="html">
+        <source>open reply box</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
+          <context context-type="linenumber">196</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="openStaffNote" datatype="html">
+        <source>open staff note</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
+          <context context-type="linenumber">197</context>
         </context-group>
       </trans-unit>
       <trans-unit id="759587987620012954" datatype="html">
         <source>staff notes are only visible to agents.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
-          <context context-type="linenumber">245</context>
+          <context context-type="linenumber">281</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closing_ticket" datatype="html">
         <source>Closing ticket</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
-          <context context-type="linenumber">525</context>
+          <context context-type="linenumber">561</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/action-bar/action-bar.component.ts</context>
-          <context context-type="linenumber">168</context>
+          <context context-type="linenumber">182</context>
         </context-group>
         <note priority="1" from="description">Title when closing a ticket</note>
         <note priority="1" from="meaning">alert title</note>
@@ -22200,7 +22279,7 @@
         <source>You are about to close this ticket. Users won&apos;t be able to add messages anymore</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
-          <context context-type="linenumber">526</context>
+          <context context-type="linenumber">562</context>
         </context-group>
         <note priority="1" from="description">Message when closing a ticket</note>
         <note priority="1" from="meaning">alert message</note>
@@ -22209,7 +22288,7 @@
         <source>Re-opening ticket</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
-          <context context-type="linenumber">559</context>
+          <context context-type="linenumber">595</context>
         </context-group>
         <note priority="1" from="description">Title when re-opening a ticket</note>
         <note priority="1" from="meaning">alert title</note>
@@ -22218,7 +22297,7 @@
         <source>You are about to re-open this ticket</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
-          <context context-type="linenumber">560</context>
+          <context context-type="linenumber">596</context>
         </context-group>
         <note priority="1" from="description">Message when re-opening a ticket</note>
         <note priority="1" from="meaning">alert message</note>
@@ -22227,14 +22306,14 @@
         <source>A draft article has been created.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
-          <context context-type="linenumber">802</context>
+          <context context-type="linenumber">838</context>
         </context-group>
       </trans-unit>
       <trans-unit id="keepAnEyeOnSpentTimeLabel" datatype="html">
         <source>keep an eye on spent time</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/add-message/add-message.component.ts</context>
-          <context context-type="linenumber">826</context>
+          <context context-type="linenumber">862</context>
         </context-group>
       </trans-unit>
       <trans-unit id="aiAssistantBox.button.suggestAnswer" datatype="html">
@@ -22595,7 +22674,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/base/base.component.html</context>
-          <context context-type="linenumber">96,97</context>
+          <context context-type="linenumber">99,100</context>
         </context-group>
       </trans-unit>
       <trans-unit id="allMessages" datatype="html">
@@ -22627,11 +22706,11 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/ticket-title/ticket-title.component.html</context>
-          <context context-type="linenumber">86,88</context>
+          <context context-type="linenumber">92,94</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/base/base.component.html</context>
-          <context context-type="linenumber">102,103</context>
+          <context context-type="linenumber">105,106</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6321931072557513132" datatype="html">
@@ -22743,28 +22822,28 @@
         <source>edit title</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/ticket-title/ticket-title.component.html</context>
-          <context context-type="linenumber">49,51</context>
+          <context context-type="linenumber">55,57</context>
         </context-group>
       </trans-unit>
       <trans-unit id="showEventLog" datatype="html">
         <source>show event log</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/ticket-title/ticket-title.component.html</context>
-          <context context-type="linenumber">61,63</context>
+          <context context-type="linenumber">67,69</context>
         </context-group>
       </trans-unit>
       <trans-unit id="merge&amp;close" datatype="html">
         <source>merge &amp; close</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/ticket-title/ticket-title.component.html</context>
-          <context context-type="linenumber">78,80</context>
+          <context context-type="linenumber">84,86</context>
         </context-group>
       </trans-unit>
       <trans-unit id="7414783897588890974" datatype="html">
         <source>ticket title</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/ticket-title/ticket-title.component.html</context>
-          <context context-type="linenumber">177,178</context>
+          <context context-type="linenumber">176,177</context>
         </context-group>
         <note priority="1" from="description">ticketTitleFormPlaceholder</note>
       </trans-unit>
@@ -22772,7 +22851,7 @@
         <source>move out of trash</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-details/ticket-title/ticket-title.component.ts</context>
-          <context context-type="linenumber">130</context>
+          <context context-type="linenumber">129</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper-toolbar/ticket-list-wrapper-toolbar.component.html</context>
@@ -23082,133 +23161,133 @@
         <source>all open</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.html</context>
-          <context context-type="linenumber">38,40</context>
+          <context context-type="linenumber">37,39</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SLADueSoon" datatype="html">
         <source>SLA due soon</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.html</context>
-          <context context-type="linenumber">61,63</context>
+          <context context-type="linenumber">60,62</context>
         </context-group>
       </trans-unit>
       <trans-unit id="SLAOverdue" datatype="html">
         <source>SLA overdue</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.html</context>
-          <context context-type="linenumber">82,84</context>
+          <context context-type="linenumber">81,83</context>
         </context-group>
       </trans-unit>
       <trans-unit id="jobWellDone" datatype="html">
         <source>job well done</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">199</context>
+          <context context-type="linenumber">207</context>
         </context-group>
       </trans-unit>
       <trans-unit id="hooray!NothingUnassigned" datatype="html">
         <source>hooray! nothing unassigned</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">204</context>
+          <context context-type="linenumber">212</context>
         </context-group>
       </trans-unit>
       <trans-unit id="readTheMojoBlogWhileWaitingForACustomerToCreateATicket" datatype="html">
         <source>read the Mojo blog while waiting for a customer to create a ticket</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">205</context>
+          <context context-type="linenumber">213</context>
         </context-group>
       </trans-unit>
       <trans-unit id="searchesQuotaReachedDot" datatype="html">
         <source>searches quota reached.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">225</context>
+          <context context-type="linenumber">233</context>
         </context-group>
       </trans-unit>
       <trans-unit id="trialReactivated" datatype="html">
         <source>The trial has been re-activated for this helpdesk.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">288</context>
+          <context context-type="linenumber">296</context>
         </context-group>
       </trans-unit>
       <trans-unit id="noTicketsToExport" datatype="html">
         <source>There are no tickets to export.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">340</context>
+          <context context-type="linenumber">348</context>
         </context-group>
       </trans-unit>
       <trans-unit id="exportTicketsFromCurrentList" datatype="html">
         <source>Export tickets from current list in CSV file?</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">347</context>
+          <context context-type="linenumber">355</context>
         </context-group>
       </trans-unit>
       <trans-unit id="toggleTagLabelVisibility" datatype="html">
         <source>toggle tag label visibility</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">378</context>
+          <context context-type="linenumber">386</context>
         </context-group>
       </trans-unit>
       <trans-unit id="pendingConfirmation" datatype="html">
         <source>pending confirmation</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">403</context>
+          <context context-type="linenumber">411</context>
         </context-group>
       </trans-unit>
       <trans-unit id="unassignedTickets" datatype="html">
         <source>unassigned tickets</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">410</context>
+          <context context-type="linenumber">418</context>
         </context-group>
       </trans-unit>
       <trans-unit id="unassignedDescription" datatype="html">
         <source>these tickets need to be assigned to an agent</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">411</context>
+          <context context-type="linenumber">419</context>
         </context-group>
       </trans-unit>
       <trans-unit id="openDescription" datatype="html">
         <source>Open tickets have statuses that are new, in progress, information requested and hold</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">418</context>
+          <context context-type="linenumber">426</context>
         </context-group>
       </trans-unit>
       <trans-unit id="trashedItemsAreAutomaticallyDeletedAfter30days" datatype="html">
         <source>trashed items are automatically deleted after 30 days</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">425</context>
+          <context context-type="linenumber">433</context>
         </context-group>
       </trans-unit>
       <trans-unit id="searchResult" datatype="html">
         <source>search result</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">439</context>
+          <context context-type="linenumber">447</context>
         </context-group>
       </trans-unit>
       <trans-unit id="saveThisSearch" datatype="html">
         <source>save this search</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">447</context>
+          <context context-type="linenumber">455</context>
         </context-group>
       </trans-unit>
       <trans-unit id="unassignedTabName" datatype="html">
         <source>Unassigned <x id="PH" equiv-text="countValueWithParenthesis"/>- <x id="PH_1" equiv-text="this.agentCurrentAccountService.currentAccountSignal().helpdeskDisplayName"/></source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/tickets/agent-portal-ticket/ticket-list/ticket-list-wrapper/ticket-list-wrapper.component.ts</context>
-          <context context-type="linenumber">503</context>
+          <context context-type="linenumber">511</context>
         </context-group>
       </trans-unit>
       <trans-unit id="upcomingTickets.moreOccurrences" datatype="html">
@@ -23713,74 +23792,88 @@
           <context context-type="linenumber">190</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="agentLicensesCount" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{ billingNumberOfAgents() }}"/> <x id="ICU" equiv-text="{billingNumberOfAgents(), plural, =1 {agent license} other {agent licenses}}" xid="6532696615365593250"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.html</context>
+          <context context-type="linenumber">48,52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6532696615365593250" datatype="html">
+        <source>{VAR_PLURAL, plural, =1 {agent license} other {agent licenses}}</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="userFilter.activeAndSuspended" datatype="html">
         <source>active &amp; suspended</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">82</context>
+          <context context-type="linenumber">86</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userFilter.activeOnly" datatype="html">
         <source>active only</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">85</context>
+          <context context-type="linenumber">89</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userFilter.suspendedOnly" datatype="html">
         <source>suspended only</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">89</context>
+          <context context-type="linenumber">93</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userFilter.confirmedAndUnconfirmed" datatype="html">
         <source>confirmed &amp; unconfirmed</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">96</context>
+          <context context-type="linenumber">100</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userFilter.confirmedOnly" datatype="html">
         <source>confirmed only</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">99</context>
+          <context context-type="linenumber">103</context>
         </context-group>
       </trans-unit>
       <trans-unit id="userFilter.unconfirmedOnly" datatype="html">
         <source>unconfirmed only</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">103</context>
+          <context context-type="linenumber">107</context>
         </context-group>
       </trans-unit>
       <trans-unit id="agentsView.created.flashNotice.message" datatype="html">
         <source>Invitation email sent to new agent</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">160</context>
+          <context context-type="linenumber">164</context>
         </context-group>
       </trans-unit>
       <trans-unit id="agentsView.created.flashNotice.doNotForgetTo" datatype="html">
         <source>Do not forget to</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">163</context>
+          <context context-type="linenumber">168</context>
         </context-group>
       </trans-unit>
       <trans-unit id="agentsView.created.flashNotice.grantQueueAccess" datatype="html">
         <source>grant queue access</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">165</context>
+          <context context-type="linenumber">172</context>
         </context-group>
       </trans-unit>
       <trans-unit id="agentsView.created.flashNotice.toTheNewAgent" datatype="html">
         <source>to the new agent</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/users/users-list/users.component.ts</context>
-          <context context-type="linenumber">167</context>
+          <context context-type="linenumber">174</context>
         </context-group>
       </trans-unit>
       <trans-unit id="pageTitles.inviteModule" datatype="html">
@@ -23879,13 +23972,6 @@
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/error/lock/lock.component.ts</context>
           <context context-type="linenumber">13</context>
-        </context-group>
-      </trans-unit>
-      <trans-unit id="itemNotFound" datatype="html">
-        <source>item not found</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">src/app/error/not-found/not-found.component.ts</context>
-          <context context-type="linenumber">10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="noConnection" datatype="html">
@@ -24337,7 +24423,7 @@
         <source> back to helpdesk </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/base/header/header.component.html</context>
-          <context context-type="linenumber">92,93</context>
+          <context context-type="linenumber">94,95</context>
         </context-group>
       </trans-unit>
       <trans-unit id="setPasswordFinishedMessage" datatype="html">
@@ -24593,26 +24679,51 @@
         </context-group>
       </trans-unit>
       <trans-unit id="closeTicket" datatype="html">
-        <source> close ticket </source>
+        <source>close ticket</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/action-bar/action-bar.component.html</context>
-          <context context-type="linenumber">111,113</context>
+          <context context-type="linenumber">111,112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cancelRequest" datatype="html">
+        <source>cancel request</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/action-bar/action-bar.component.html</context>
+          <context context-type="linenumber">113,115</context>
         </context-group>
       </trans-unit>
       <trans-unit id="StartTypingAnEmailAddress..." datatype="html">
         <source>Start typing an email address...</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/action-bar/action-bar.component.ts</context>
-          <context context-type="linenumber">91</context>
+          <context context-type="linenumber">94</context>
         </context-group>
       </trans-unit>
       <trans-unit id="closing_ticket_message_user" datatype="html">
         <source>You are about to close this ticket. You won&apos;t be able to add messages anymore</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/action-bar/action-bar.component.ts</context>
-          <context context-type="linenumber">169</context>
+          <context context-type="linenumber">183</context>
         </context-group>
         <note priority="1" from="description">Message when user closing a ticket</note>
+        <note priority="1" from="meaning">alert message</note>
+      </trans-unit>
+      <trans-unit id="canceling_request" datatype="html">
+        <source>Canceling request</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/action-bar/action-bar.component.ts</context>
+          <context context-type="linenumber">186</context>
+        </context-group>
+        <note priority="1" from="description">Title when canceling a request</note>
+        <note priority="1" from="meaning">alert title</note>
+      </trans-unit>
+      <trans-unit id="canceling_request_message" datatype="html">
+        <source>You are about to cancel this request. No work has been started on it yet and it will be closed without any action taken.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/user-portal/user-portal-ticket/user-portal-ticket-details/action-bar/action-bar.component.ts</context>
+          <context context-type="linenumber">187</context>
+        </context-group>
+        <note priority="1" from="description">Message when user canceling a request without any work done</note>
         <note priority="1" from="meaning">alert message</note>
       </trans-unit>
       <trans-unit id="MessagesFromTheHelpDeskStaffWillAppearBelow" datatype="html">
