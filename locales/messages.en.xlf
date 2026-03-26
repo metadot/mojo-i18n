@@ -2700,17 +2700,52 @@
         </context-group>
       </trans-unit>
       <trans-unit id="thisFieldIsRequired" datatype="html">
-        <source>This field is required</source>
+        <source>This field is required. Please complete this field before continuing</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_core/lib/form-helper.ts</context>
           <context context-type="linenumber">28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="invalidEmail" datatype="html">
-        <source>Invalid email</source>
+        <source>Please enter a valid email address, e.g. name@example.com</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_core/lib/form-helper.ts</context>
           <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formHelper.errors.minlength" datatype="html">
+        <source>This field is too short. Please enter at least <x id="INTERPOLATION" equiv-text="requiredLength"/> characters</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_core/lib/form-helper.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formHelper.errors.maxlength" datatype="html">
+        <source>This field is too long. Please enter no more than <x id="INTERPOLATION" equiv-text="requiredLength"/> characters</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_core/lib/form-helper.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formHelper.errors.min" datatype="html">
+        <source>The value is too low. Please enter a value of at least <x id="INTERPOLATION" equiv-text="min"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_core/lib/form-helper.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formHelper.errors.max" datatype="html">
+        <source>The value is too high. Please enter a value no greater than <x id="INTERPOLATION" equiv-text="max"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_core/lib/form-helper.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="formHelper.errors.pattern" datatype="html">
+        <source>This field has an invalid format. Please check the expected format and try again</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/_core/lib/form-helper.ts</context>
+          <context context-type="linenumber">51</context>
         </context-group>
       </trans-unit>
       <trans-unit id="browserDefault" datatype="html">
@@ -9910,7 +9945,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="commonPasswordHelper" datatype="html">
-        <source> common passwords are forbidden </source>
+        <source> This password is too common. Please choose a more unique password. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/user/change-password/change-password.component.html</context>
           <context context-type="linenumber">69,73</context>
@@ -9926,7 +9961,7 @@
         <note priority="1" from="description">Confirm new password placeholder</note>
       </trans-unit>
       <trans-unit id="confirmationNotMatching" datatype="html">
-        <source>confirmation not matching</source>
+        <source>Passwords do not match. Please re-enter the same password.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_shared/modules/user/change-password/change-password.component.html</context>
           <context context-type="linenumber">106,109</context>
@@ -10416,49 +10451,49 @@
         </context-group>
       </trans-unit>
       <trans-unit id="uiKit.dynamic-form.errors.required" datatype="html">
-        <source> This field is required. </source>
+        <source> This field is required. Please complete this field before continuing. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_ui/kit/dynamic-form/dynamic-form-question/control-invalid-feedback/control-invalid-feedback.component.ts</context>
           <context context-type="linenumber">15,17</context>
         </context-group>
       </trans-unit>
       <trans-unit id="uiKit.dynamic-form.errors.minlength" datatype="html">
-        <source> This field must be at least <x id="INTERPOLATION" equiv-text="{{ control.errors?.minlength.requiredLength }}"/> characters. </source>
+        <source> This field is too short. Please enter at least <x id="INTERPOLATION" equiv-text="{{ control.errors?.minlength.requiredLength }}"/> characters. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_ui/kit/dynamic-form/dynamic-form-question/control-invalid-feedback/control-invalid-feedback.component.ts</context>
           <context context-type="linenumber">27,28</context>
         </context-group>
       </trans-unit>
       <trans-unit id="uiKit.dynamic-form.errors.maxlength" datatype="html">
-        <source> This field must be at most <x id="INTERPOLATION" equiv-text="{{ control.errors?.maxlength.requiredLength }}"/> characters. </source>
+        <source> This field is too long. Please enter no more than <x id="INTERPOLATION" equiv-text="{{ control.errors?.maxlength.requiredLength }}"/> characters. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_ui/kit/dynamic-form/dynamic-form-question/control-invalid-feedback/control-invalid-feedback.component.ts</context>
           <context context-type="linenumber">39,40</context>
         </context-group>
       </trans-unit>
       <trans-unit id="uiKit.dynamic-form.errors.pattern" datatype="html">
-        <source> This field is invalid. </source>
+        <source> This field has an invalid format. Please check the expected format and try again. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_ui/kit/dynamic-form/dynamic-form-question/control-invalid-feedback/control-invalid-feedback.component.ts</context>
           <context context-type="linenumber">50,52</context>
         </context-group>
       </trans-unit>
       <trans-unit id="uiKit.dynamic-form.errors.min" datatype="html">
-        <source> This field must be at least <x id="INTERPOLATION" equiv-text="{{ control.errors?.min.min }}"/>. </source>
+        <source> The value is too low. Please enter a value of at least <x id="INTERPOLATION" equiv-text="{{ control.errors?.min.min }}"/>. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_ui/kit/dynamic-form/dynamic-form-question/control-invalid-feedback/control-invalid-feedback.component.ts</context>
           <context context-type="linenumber">61,62</context>
         </context-group>
       </trans-unit>
       <trans-unit id="uiKit.dynamic-form.errors.max" datatype="html">
-        <source> This field must be at most <x id="INTERPOLATION" equiv-text="{{ control.errors?.max.max }}"/>. </source>
+        <source> The value is too high. Please enter a value no greater than <x id="INTERPOLATION" equiv-text="{{ control.errors?.max.max }}"/>. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_ui/kit/dynamic-form/dynamic-form-question/control-invalid-feedback/control-invalid-feedback.component.ts</context>
           <context context-type="linenumber">72,73</context>
         </context-group>
       </trans-unit>
       <trans-unit id="uiKit.dynamic-form.errors.email" datatype="html">
-        <source> This field must be a valid email. </source>
+        <source> Please enter a valid email address, e.g. name@example.com. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/_ui/kit/dynamic-form/dynamic-form-question/control-invalid-feedback/control-invalid-feedback.component.ts</context>
           <context context-type="linenumber">83,85</context>
@@ -11247,7 +11282,7 @@
         </context-group>
       </trans-unit>
       <trans-unit id="thisContactDoesNotExist" datatype="html">
-        <source> this contact does not exist </source>
+        <source> this contact does not exist. Please search for an existing contact or create a new one. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/_shared/ticket/ticket-creation-form/ticket-creation-form.component.html</context>
           <context context-type="linenumber">129,130</context>
@@ -16988,21 +17023,21 @@
         </context-group>
       </trans-unit>
       <trans-unit id="subjectIsRequired" datatype="html">
-        <source> subject is required </source>
+        <source> subject is required. Please enter a subject line for this email template. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-help-desk/email-templates/email-template/email-template-details.component.html</context>
           <context context-type="linenumber">9,10</context>
         </context-group>
       </trans-unit>
       <trans-unit id="htmlBodyIsRequired" datatype="html">
-        <source> HTML body is required </source>
+        <source> HTML body is required. Please provide HTML content in the Edit HTML Body tab. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-help-desk/email-templates/email-template/email-template-details.component.html</context>
           <context context-type="linenumber">14,15</context>
         </context-group>
       </trans-unit>
       <trans-unit id="textBodyIsRequired" datatype="html">
-        <source> Text body is required </source>
+        <source> Text body is required. Please provide text content in the Edit Text Body tab. </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-help-desk/email-templates/email-template/email-template-details.component.html</context>
           <context context-type="linenumber">19,20</context>
@@ -18813,14 +18848,14 @@
         <note priority="1" from="description">Search name</note>
       </trans-unit>
       <trans-unit id="nameIsRequired" datatype="html">
-        <source>name is required</source>
+        <source>name is required. Please enter a name for this search.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-ticket/searches/searches-form/searches-form.component.html</context>
           <context context-type="linenumber">23,25</context>
         </context-group>
       </trans-unit>
       <trans-unit id="spacesAreNotAllowed" datatype="html">
-        <source>spaces are not allowed</source>
+        <source>spaces are not allowed. Please remove any leading or trailing spaces.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/admin/admin-portal-ticket/searches/searches-form/searches-form.component.html</context>
           <context context-type="linenumber">26,29</context>
@@ -22066,7 +22101,7 @@
         <note priority="1" from="description">enter user name</note>
       </trans-unit>
       <trans-unit id="emailIsInvalid" datatype="html">
-        <source>email is invalid</source>
+        <source>Please enter a valid email address, e.g. name@example.com.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/agent-portal/reports/event-log/event-log-base/event-log.component.html</context>
           <context context-type="linenumber">85,87</context>
